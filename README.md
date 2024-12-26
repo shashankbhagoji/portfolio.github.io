@@ -39,6 +39,8 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <br> 
 > “The only way to do great work is to love what you do.” – Steve Jobs
 >
+
+![Screenshot 2024-11-30 114244](https://github.com/user-attachments/assets/72dfa8d0-1b98-4cb4-a937-00a0a05c7268)
 ![Project Screenshot](assets/image.png)
 [Check out Google](https://www.google.com/)
 [Check out a sample Portfolio](https://jiyapalrecha35.github.io/Google.github.io/)
